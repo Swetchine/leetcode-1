@@ -16,14 +16,13 @@
 
 > 排名只代表参加活动的先后次序
 
-
 | 用户                                                         | 天数                    | 进度 |
 | ------------------------------------------------------------ | ----------------------- | ---- |
-| [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::heart::heart::heart::heart: | 9/30 |
+| [realzhaijiayu](https://github.com/realzhaijiayu)            | :star::star::heart: | 11/30 |
 | [Swetchine](https://github.com/Swetchine)                    | :star::star: | 10/30 |
-| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star: | 10/30 |
-| [pusidun](https://github.com/pusidun)             | :star::heart:     | 6/30 |
-| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star: :heart: |   6/30   |
-| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :heart::heart: |   2/30   |
+| [zhoujx](https://github.com/ZhouJianXuan/leetcode)           | :star::star: |   10/30   |
+| [howfars](https://github.com/howfars/leetcode/tree/master/howfars) | :star::star::heart::heart::heart::heart: | 14/30 |
+| [pusidun](https://github.com/pusidun)             | :star::heart::heart:  | 7/30 |
+| [BoysCryToo](https://github.com/BoysNeverCry/leetcode)           | :star::heart::heart: |   7/30   |
 | 用户3                                                        |                         |      |
 
