@@ -12,4 +12,10 @@
 | 2020.07.10 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | https://www.cnblogs.com/realzhaijiayu/p/13282061.html |
 | 2020.07.13 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | https://www.cnblogs.com/realzhaijiayu/p/13294664.html |
 | 2020.07.14 | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | https://www.cnblogs.com/realzhaijiayu/p/13302969.html |
+| 2020.07.15 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | https://www.cnblogs.com/realzhaijiayu/p/13308671.html |
+| 2020.07.16 | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/) | https://www.cnblogs.com/realzhaijiayu/p/13324516.html |
+| 2020.07.17 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | https://www.cnblogs.com/realzhaijiayu/p/13333969.html |
+| 2020.07.21 | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | https://www.cnblogs.com/realzhaijiayu/p/13357428.html |
+| 2020.07.22 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | https://www.cnblogs.com/realzhaijiayu/p/13363161.html |
+| 2020.07.23 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | https://www.cnblogs.com/realzhaijiayu/p/13368803.html |
 |            |                                                              |                                                       |

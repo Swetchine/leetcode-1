@@ -32,3 +32,16 @@
 ### 2020/07/14
 [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)
+
+### 2020/07/15
+[96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+
+### 2020/07/16
+[785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)
+
+### 2020/07/17
+[字节-动态或贪心 买卖股票的最佳时机](https://leetcode-cn.com/explore/interview/card/bytedance/246/dynamic-programming-or-greedy/1042/)
+[字节-动态或贪心 买卖股票的最佳时机 II](https://leetcode-cn.com/explore/interview/card/bytedance/246/dynamic-programming-or-greedy/1043/)
+
+### 2020/07/21
+[95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
